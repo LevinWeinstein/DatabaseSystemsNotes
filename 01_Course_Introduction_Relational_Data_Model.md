@@ -212,6 +212,10 @@ Syntax: (R  S)
 The relational model is independent of any query language implementaiton.
 **SQL** is the *de facto* standard.
 
+## Conclusion
+* Databases are ubiquitous
+* Relational algebra defines the primitives for processing queries on a relational database.
+* We will see relational algebra again when we talk about query optimization + execution.
 
 
 
