@@ -198,7 +198,7 @@ SQL: CROSS JOIN
 
 Generate a relation that contains all tuples that area a combination of two tuples (one from each input relation) with a comon values) for one or more attributes.
 
-Syntax: (R  S)
+Syntax: (R ⋈ S)
 
 #### Relational Algebra: Extra Operators:
 * Rename
